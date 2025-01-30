@@ -41,7 +41,7 @@ const decrementValue=(name)=>{
 
   return (
     <ShoeProvider value={{ cart, shoes, addToCart,incrementValue,decrementValue }}>
-      <Router>
+      <Router basename="/Task24">
         <Routing />
       </Router>
     </ShoeProvider>
