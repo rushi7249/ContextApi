@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ContextApi/static/css/main.939ca51c.css",
+    "main.js": "/ContextApi/static/js/main.ee88a949.js",
+    "static/media/shoes.jpg": "/ContextApi/static/media/shoes.b9c36f18607042ca5854.jpg",
+    "static/media/pair-trainers.jpg": "/ContextApi/static/media/pair-trainers.74e7078cc131147a38ec.jpg",
+    "static/media/brown-leather-shoes.jpg": "/ContextApi/static/media/brown-leather-shoes.355f31892df1e3dafa47.jpg",
+    "static/media/pexels-melvin-buezo-1253763-2529148.jpg": "/ContextApi/static/media/pexels-melvin-buezo-1253763-2529148.4f89d361a86a19ca58fc.jpg",
+    "static/media/pexels-webdonut-19090.jpg": "/ContextApi/static/media/pexels-webdonut-19090.3ff1eaa9614e20674753.jpg",
+    "static/media/icon.png": "/ContextApi/static/media/icon.ab48f6c02af0d7a1220f.png",
+    "index.html": "/ContextApi/index.html",
+    "main.939ca51c.css.map": "/ContextApi/static/css/main.939ca51c.css.map",
+    "main.ee88a949.js.map": "/ContextApi/static/js/main.ee88a949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939ca51c.css",
+    "static/js/main.ee88a949.js"
+  ]
+}
